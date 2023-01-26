@@ -6,6 +6,8 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ## Picks of the Month
 
+
+
 ### [Arctic Monkeys](/writer/arctic_monkeys.md) | 
 
 [Fluorescent Adolescent](song/jan/fluorescent_adolescent.md)
@@ -17,9 +19,11 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 ### [Queen](writer/queen.md) | 
 
 [Bohemian Rhapsody](song/feb/Bohemian_Rhapsody.md)
-=======
-### [Dua Lipa](/writer/dua_lipa.md) | dua.lipa@onlyrics.magazine
+
 
 ### [The Killers](writer/the_killers) | 
 
 [Mr. Brightside](song/jan/mr_brightside.md)
+
+### [Dua Lipa](/writer/dua_lipa.md) | 
+[lost in your light](song/jan/lost_in_your_light.md)
